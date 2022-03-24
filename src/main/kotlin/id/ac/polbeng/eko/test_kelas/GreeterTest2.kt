@@ -7,5 +7,5 @@ fun main() {
     greeter.greet("Anton")
     greeter.greet("Budi")
     greeter.text = "Hello programmer"
-    println(greeter.with_ret_val("Dono"))
+    println(greeter.with_ret_val("Donoo"))
 }

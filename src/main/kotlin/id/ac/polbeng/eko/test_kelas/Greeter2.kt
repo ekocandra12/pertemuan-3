@@ -15,6 +15,6 @@ class Greeter2 {
     /**
      * berikut penambahan dari file Greeter berupa class member yaitu sebuah atribut dengan nama
     text dan dua buah method dengan nama greet yang mempunyai satu parameter bertipe String dan
-    with_ret_val yang memiliki satu parameter bertipe String dengan nilai kembali String.
+    with_ret_val yang memiliki satu parameter bertipe String dengan nilai kembali String
      */
 }
