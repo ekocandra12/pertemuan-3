@@ -24,6 +24,6 @@ fun main(){
     budi.cetakInfo()
 
     /**
-     * Konstruktor tambahan bisa didefenisikan lebih dari satu.
+     * Konstruktor tambahan bisa didefenisikan lebih dari satu
      */
 }
