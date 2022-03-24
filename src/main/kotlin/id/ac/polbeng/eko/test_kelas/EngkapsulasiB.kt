@@ -13,8 +13,7 @@ class EmployeeA(_id: Int, _name: String, _age: Int) {
     var age: Int = _age
         get() = field
         set(value) {
-            field = if(value > 0) value else throw IllegalArgumentException("Age must be greater than
-                    zero")
+            field = if(value > 0) value else throw IllegalArgumentException("Age must be greater than zero")
         }
 }
 fun main() {
