@@ -11,7 +11,7 @@ fun main() {
     println("Student Age is: ${meri.age}")
 
     /**
-     * Kotlin memiliki solusi yang lebih baik untuk menangani data yaitu dengan menggunakan data
+     *Kotlin memiliki solusi yang lebih baik untuk menangani data yaitu dengan menggunakan data
     kelas. Sebuah data kelas sama seperti kelas biasa tapi memiliki tambahan funsionalitas. Di Kotlin
     kita tidak perlu menulis atau men-generate semua data kelas seperti method Getter dan Setter di
     Java, Kotlin telah men-generate secara otomatis fungsi Getter dan Setter pada setiap anggota
